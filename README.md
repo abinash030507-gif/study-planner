@@ -21,6 +21,7 @@ A simple web app that helps students organize study tasks by priority and due da
 ## Getting Started
 
 1. **Clone the repository**
+  https://github.com/abinash030507-gif/study-planner
 
 
 2. **Open in browser**
