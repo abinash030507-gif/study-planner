@@ -55,7 +55,3 @@ A simple web app that helps students organize study tasks by priority and due da
 - Integration with a calendar (Google Calendar or similar).
 - Analytics (total hours planned vs completed).
 
-## License
-
-This project is open source. You can choose a license like MIT:
-
